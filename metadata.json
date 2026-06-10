@@ -1,0 +1,6 @@
+{
+  "name": "Movie Events and Tickets",
+  "description": "Premium business website for booking film launches, audio releases, celebrity meet & greets, and premium movie-related events.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
