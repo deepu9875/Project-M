@@ -78,7 +78,7 @@ export default function Hero({ theme, onBookClick, onExploreClick }: HeroProps) 
 
         {/* Headline */}
         <h1 className="font-heading text-4xl sm:text-5xl md:text-7xl font-extrabold tracking-tight text-white leading-tight mb-6">
-          Bringing <span className="text-transparent bg-clip-text bg-gradient-to-r from-gold via-amber-300 to-accent-red p-1">Movie Events</span> to Life
+          Bridge <span className="text-transparent bg-clip-text bg-gradient-to-r from-gold via-amber-300 to-accent-red p-1"> between Silver Screen</span> and People
         </h1>
 
         {/* Subheading */}
